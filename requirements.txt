@@ -1,13 +1,15 @@
-streamlit
-deepface==0.0.93
-opencv-python-headless==4.7.0.72
-vaderSentiment
-numpy==1.24.3
-pandas==1.5.3
-librosa==0.10.1
-soundfile
-tqdm
-gdown
-Pillow
+streamlit==1.32.0
+deepface==0.0.79
+opencv-python-headless==4.8.1.78
+numpy>=1.23.2,<1.24
+pandas==2.0.3
+plotly==5.18.0
+openai-whisper==20231117
+torch==2.1.0
+sounddevice==0.4.6
+soundfile==0.12.1
+scipy==1.11.3
+textblob==0.17.1
+tensorflow==2.12.0
 
 
